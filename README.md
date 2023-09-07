@@ -1,3 +1,3 @@
 # Panduan penggunaan
 
-* [Menginstall termux](http://https://github.com/ughostfinder/README#Menginstall-termux)
+* [Menginstall termux](https://github.com/ughostfinder/README#Menginstall-termux)
