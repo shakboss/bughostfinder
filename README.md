@@ -1,6 +1,6 @@
 # Panduan Penggunaan
 
-* [Menginstall Termux](https://github.com/bughostfinder/README#menginstall-termux)
+* [Menginstall Termux](https://github.com/khazulys/bughostfinder/README#menginstall-termux)
 * [Install Package](https://github.com/bughostfinder/README#install-package)
 * [Menjalankan Program](https://github.com/bughostfinder/README#menjalanlan-program)
 * [Output](https://github.com/bughostfinder/README#output)
