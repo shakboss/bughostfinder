@@ -14,32 +14,27 @@ Ada beberapa package yang harus di install setelah itu.
 
 Ketikan perintah ini pada termux.
 
-```
-pkg install python -y
-```
-
-```
-pip install requests
-```
-
-```
-pip install colorama
+```bash
+$pkg install python -y
+$pip install requests
+$pip install colorama
 ```
 
 ### Menjalankan Program
 Ketikan perintah ini untuk menjalankan program
 
-```
-cd bughostfinder
+```bash
+$cd bughostfinder
 ```
 
 Kemudian, ketikan
 
 
-```
-python finder.py
+```bash
+$python finder.py
 ```
 
 ### Output
 Ini adalah output dari program tersebut.
 
+<img src="images/git-tut1.png">
