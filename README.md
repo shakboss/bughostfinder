@@ -37,4 +37,4 @@ $python finder.py
 ### Output
 Ini adalah output dari program tersebut.
 
-<img src="images/git-tut1.png">
+<img src="screenahot/20230907_233713.png">
