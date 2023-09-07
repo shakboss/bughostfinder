@@ -38,3 +38,8 @@ $python finder.py
 Ini adalah output dari program tersebut.
 
 <img src="screenshot/20230907_233713.png">
+
+### Kontak Saya
+
+* [WhatsApp](https://wa.me/qr/XN5QA2KBIRN7B1)
+* [Instagram](https://www.instagram.com/khazulys)
