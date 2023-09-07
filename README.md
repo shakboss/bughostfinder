@@ -1,10 +1,10 @@
 # Panduan Penggunaan
 
-* [Menginstall Termux](https://github.com/khazulys/bughostfinder/README#menginstall-termux)
-* [Install Package](https://github.com/bughostfinder/README#install-package)
-* [Menjalankan Program](https://github.com/bughostfinder/README#menjalanlan-program)
-* [Output](https://github.com/bughostfinder/README#output)
-* [Kontak Author](https://github.com/bughostfinder/README#contact)
+* [Menginstall Termux](#menginstall-termux)
+* [Install Package](#install-package)
+* [Menjalankan Program](#menjalanlan-program)
+* [Output](#output)
+* [Kontak Author](#contact)
 
 ### Menginstall Termux
 Hal yang paling awal kita lakukan adalah mendownload aplikasi [Termux](https://f-droid.org/repo/com.termux_118.apk).
