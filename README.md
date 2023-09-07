@@ -6,16 +6,40 @@
 * [Output](https://github.com/bughostfinder/README#output)
 * [Kontak Author](https://github.com/bughostfinder/README#contact)
 
-## Menginstall Termux
+### Menginstall Termux
 Hal yang paling awal kita lakukan adalah mendownload aplikasi [Termux](https://f-droid.org/repo/com.termux_118.apk).
 
-## Install Package
-ada beberapa package yang harus kita install setelah itu.
+### Install Package
+Ada beberapa package yang harus di install setelah itu.
 
-ketikan perintah ini pada termux kalian.
+Ketikan perintah ini pada termux.
 
 ```
-pkg update && pkg upgrade
+pkg install python -y
 ```
 
-selanjutnya kalian hanya perlu menekan tombok `N`
+```
+pip install requests
+```
+
+```
+pip install colorama
+```
+
+### Menjalankan Program
+Ketikan perintah ini untuk menjalankan program
+
+```
+cd bughostfinder
+```
+
+Kemudian, ketikan
+
+
+```
+python finder.py
+```
+
+### Output
+Ini adalah output dari program tersebut.
+
