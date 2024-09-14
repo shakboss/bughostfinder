@@ -37,7 +37,7 @@ if __name__ == "__main__":
    print(Fore.RED + 'this may take a little time')
    print(f'if there are problems hub: {Back.GREEN} +62895603555736')
    domain = input("Enter hostname (ruangguru.com): ")
-   print(Fore.YELLOW + 'wait, don't cancel...')
+   print('wait, don't cancel...')
    urlRequest = f"https://subdomains.whoisxmlapi.com/api/v1?apiKey=at_XroRwkGimSVtuawqrEW2B0AXXU49L&domainName={domain}"
    getSubdomains(urlRequest)
    responseDomains()
